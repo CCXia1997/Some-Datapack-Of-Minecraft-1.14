@@ -1,0 +1,9 @@
+execute at @e[type=armor_stand,tag=container] store result entity @e[type=item_frame,tag=display_0,limit=1] Item.tag.CustomModelData byte 1 run data get block ~ ~ ~ Items[0].tag.CustomModelData
+execute at @e[type=armor_stand,tag=container] store result entity @e[type=item_frame,tag=display_1,limit=1] Item.tag.CustomModelData byte 1 run data get block ~ ~ ~ Items[1].tag.CustomModelData
+execute at @e[type=armor_stand,tag=container] store result entity @e[type=item_frame,tag=display_2,limit=1] Item.tag.CustomModelData byte 1 run data get block ~ ~ ~ Items[2].tag.CustomModelData
+execute at @e[type=armor_stand,tag=container] store result entity @e[type=item_frame,tag=display_3,limit=1] Item.tag.CustomModelData byte 1 run data get block ~ ~ ~ Items[3].tag.CustomModelData
+execute at @e[type=armor_stand,tag=container] store result entity @e[type=item_frame,tag=display_4,limit=1] Item.tag.CustomModelData byte 1 run data get block ~ ~ ~ Items[4].tag.CustomModelData
+execute at @e[type=armor_stand,tag=container] store result entity @e[type=item_frame,tag=display_5,limit=1] Item.tag.CustomModelData byte 1 run data get block ~ ~ ~ Items[5].tag.CustomModelData
+execute at @e[type=armor_stand,tag=container] store result entity @e[type=item_frame,tag=display_6,limit=1] Item.tag.CustomModelData byte 1 run data get block ~ ~ ~ Items[6].tag.CustomModelData
+execute at @e[type=armor_stand,tag=container] store result entity @e[type=item_frame,tag=display_7,limit=1] Item.tag.CustomModelData byte 1 run data get block ~ ~ ~ Items[7].tag.CustomModelData
+execute at @e[type=armor_stand,tag=container] store result entity @e[type=item_frame,tag=display_8,limit=1] Item.tag.CustomModelData byte 1 run data get block ~ ~ ~ Items[8].tag.CustomModelData

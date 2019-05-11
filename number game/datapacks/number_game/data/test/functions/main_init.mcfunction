@@ -1,0 +1,1 @@
+function test:random/rand_main
